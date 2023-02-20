@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_tor"
+  site-url: "https://Xueyuan33.github.io/nbdev_tor"
+  description: "a repo"
+  repo-branch: main
+  repo-url: "https://github.com/Xueyuan33/nbdev_tor"
